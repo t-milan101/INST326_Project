@@ -6,7 +6,7 @@
 ## Execution
 - Navigate to the `<project_folder>` and run
     ```
-    python3 ./code/contacts.py
+    python3 ./code/main.py
     ```
 ## Output
 - A sample output of the program is as follows
